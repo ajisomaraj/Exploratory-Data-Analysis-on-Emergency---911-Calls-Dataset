@@ -1,6 +1,25 @@
 # Exploratory-Data-Analysis-on-Emergency-911-Calls-Dataset
 
 ## Emergency 911 Calls - Montgomery County, PA
+In this project we will be analyzing some 911 call data from Kaggle. The data contains the following fields:
+
+lat : String variable, Latitude
+
+lng: String variable, Longitude
+
+desc: String variable, Description of the Emergency Call
+
+zip: String variable, Zipcode
+
+title: String variable, Title
+
+timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+
+twp: String variable, Township
+
+addr: String variable, Address
+
+e: String variable, Dummy variable
 
 ### About Montgomery County
 Montgomery County, locally also referred to as Montco, is a county located in the Commonwealth of Pennsylvania. As of the 2010 census, the population was 799,874, making it the third most populous county in Pennsylvania, after Philadelphia and Allegheny Counties, and the 71st most populous in the United States. The county seat is Norristown.Montgomery County is very diverse, ranging from farms and open land in the extreme north of the county to densly populated neighborhoods in South and Central Montgomery County.
